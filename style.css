@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #007acc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
